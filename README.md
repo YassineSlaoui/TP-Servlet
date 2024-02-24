@@ -10,6 +10,6 @@ I've added comments throughout the code to explain the functionality of methods,
 
 ## Original Project
 
-This project is a modification of the original [Example of Login Form in Servlet Tutorial](https://www.javatpoint.com/example-of-login-form-in-servlet) by [Javatpoint](https://www.javatpoint.com/).
+This project is a modification of the original [Servlet Wrappers with Examples]([https://www.javatpoint.com/example-of-login-form-in-servlet](https://dotnettutorials.net/lesson/servlet-wrappers/)) by [DotNetTutorials](https://dotnettutorials.net/).
 
 Feel free to explore the original project for more details.
